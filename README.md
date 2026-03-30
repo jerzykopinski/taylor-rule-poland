@@ -33,7 +33,7 @@ How to run
 From the project root:
 
 ```bash
-python src/main.py
+python PL-taylor.py
 ```
 
 Enjoy!
