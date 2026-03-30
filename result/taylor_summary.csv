@@ -1,0 +1,3 @@
+Run,policy_rate,inflation,inflation_gap,output_gap,equilibrium_rate_regression,const_estimated,alpha_estimated,beta_estimated,r_squared,n_obs
+Full sample,4.4154,2.6524,0.1524,0.3916,5.5425,5.3402,0.4584,0.3383,0.1107,112
+Post-2004,4.4154,2.6524,0.1524,0.3916,3.3532,3.302,0.2839,0.0203,0.2503,88
